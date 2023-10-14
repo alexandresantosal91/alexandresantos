@@ -56,7 +56,7 @@ samp {
 
 a {
     background-color: transparent;
-    -webkit-text-decoration-skip: objects
+    webkit-text-decoration-skip: objects
 }
 
 abbr[title] {
@@ -3373,20 +3373,11 @@ a img {
 }
 
 #particles-js {
-    background: #1488CC;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2B32B2, #1488CC);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-    display: flex;
-    vertical-align: bottom;
-    width: 100%;
-    min-height: 100vh;
+    background-image: url('/assets/img/red-team-blue-team-curitiba-1-1024x683.jpg.webp');
+    /* Outras propriedades de fundo */
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed
+    background-attachment: fixed;
 }
 
 #particles-js .particles-js-canvas-el {
