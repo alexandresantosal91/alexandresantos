@@ -13,8 +13,9 @@ body {
     padding: 0;
     font-size: 100%;
     line-height: 1.5;
-    color: #555;
-    font-family: 'Nunito Sans', sans-serif
+    color: #000000;
+    font-family: 'Nunito Sans', sans-serif;
+    
 }
 
 article,
@@ -3307,7 +3308,7 @@ template {
 
 [class*=" devicon-"],
 [class^=devicon-] {
-    font-family: devicon;
+    font-family: devicon, serif;
     speak: none;
     font-style: normal;
     font-weight: 400;
@@ -3523,7 +3524,7 @@ p.justificado {
     width: 90%;
     max-width: 960px;
     text-align: justify;
-    margin: 0 auto 20px;
+    margin: 0 auto 15px;
 }
 
 @media only screen and (min-width:550px) {
@@ -3608,7 +3609,7 @@ p.justificado {
     margin: 0 auto 10px;
 }
 
-.user-details {
+.user-details, h2{
     text-align: center;
     margin: 5px auto
 }

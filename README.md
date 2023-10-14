@@ -1,4 +1,4 @@
-<p align="center">Bem-vindo ao Meu Portfólio de Blue Team</p>
+<h1 align="center">Bem-vindo ao Meu Portfólio de Blue Team</h1>
 
 <p align="center">
   <img src="assets/img/red-team-blue-team-curitiba-1-1024x683.jpg.webp" alt="Red Team Blue Team">
