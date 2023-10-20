@@ -20,7 +20,7 @@ Olá, sou Alexandre Santos, e estou trilhando o caminho para me tornar um especi
 
 ## Entre em Contato
 
-- **E-mail:** [alexandresantosal1991@protonmail.com](mailto:alexandresantosal1991@protonmail.com)
+- **E-mail:** [alexandresantos_al@protonmail.com](mailto:alexandresantos_al@protonmail.com)
 - **LinkedIn:** [Meu perfil no LinkedIn](https://www.linkedin.com/in/alexandresantosal/)
 - **Bio.link:** [Meu Bio.link](https://linktr.ee/alexandresantosal)
 
