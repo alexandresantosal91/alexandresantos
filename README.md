@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo ao Meu Portfólio de Estudante de Blue Team com foco em OSINT</h1>
 
 <p align="center">
-  <img src="assets/img/wallpaper.png" alt="Red Team Blue Team">
+  <img src="assets/img/Screenshot 2023-11-04 at 09.44.03.png" alt="Red Team Blue Team">
 </p>
 
 <p align="center">
