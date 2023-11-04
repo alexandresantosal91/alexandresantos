@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao Meu Portfólio de Blue Team</h1>
+<h1 align="center">Bem-vindo ao Meu Portfólio de Estudante de Blue Team com foco em OSINT</h1>
 
 <p align="center">
   <img src="assets/img/wallpaper.png" alt="Red Team Blue Team">
