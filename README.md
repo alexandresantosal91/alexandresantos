@@ -8,11 +8,11 @@
   <a href="https://alexandresantos.vercel.app" target="_blank">Clique Aqui para acessar o projeto</a>
 </p>
 
-Olá, sou Alexandre Santos, e estou trilhando o caminho para me tornar um especialista em Blue Team. Atualmente, estou cursando o Técnico em Análise e Desenvolvimento de Sistemas, e este repositório funciona como o meu portfólio, onde compartilho as minhas habilidades e experiência no campo de segurança cibernética. Aqui, você pode explorar o meu currículo, conhecer um pouco sobre a minha jornada e conferir alguns dos meus projetos em destaque.
+Olá, sou Alexandre Santos, e estou trilhando o caminho para me tornar um especialista em Blue Team com foco em OSINT. Atualmente, estou cursando o Técnico em Análise e Desenvolvimento de Sistemas, e este repositório funciona como o meu portfólio, onde compartilho as minhas habilidades e experiência no campo de segurança cibernética. Aqui, você pode explorar o meu currículo, conhecer um pouco sobre a minha jornada e conferir alguns dos meus projetos em destaque.
 
 ## Sobre Mim
 
-- 👨‍💻 Sou um estudante de Técnico em Análise e Desenvolvimento de Sistemas com foco em Segurança Cibernética.
+- 👨‍💻 Sou um estudante de Técnico em Análise e Desenvolvimento de Sistemas com foco em Segurança Cibernética com foco em OSINT.
 - 🔒 Apaixonado por segurança cibernética e práticas do Blue Team.
 - 🌐 Estou constantemente trabalhando em projetos para aprimorar as minhas habilidades em defesa e monitoramento de sistemas e redes.
 - 💡 Comprometido em aprender e crescer constantemente na área de segurança digital.
@@ -23,4 +23,4 @@ Olá, sou Alexandre Santos, e estou trilhando o caminho para me tornar um especi
 - **LinkedIn:** [Meu perfil no LinkedIn](https://www.linkedin.com/in/alexandresantosal/)
 - **Bio.link:** [Meu Bio.link](https://linktr.ee/alexandresantosal)
 
-Agradeço por visitar o meu portfólio. Vamos aprender e crescer juntos na área de segurança cibernética!
+Agradeço por visitar o meu portfólio. Vamos aprender e crescer juntos na área de Segurança Cibernética!
