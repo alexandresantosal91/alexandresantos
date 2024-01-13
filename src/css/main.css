@@ -15,7 +15,7 @@ body {
     line-height: 1.5;
     color: #000000;
     font-family: 'Nunito Sans', sans-serif;
-    
+
 }
 
 article,
@@ -3394,7 +3394,7 @@ a img {
 }
 
 #particles-js {
-    background-image: url('/assets/img/red-team-blue-team-curitiba-1-1024x683.jpg.webp');
+    background-image: url('/assets/img/blue-team-blue-team.jpg.webp');
     /* Outras propriedades de fundo */
     background-repeat: no-repeat;
     background-size: cover;
